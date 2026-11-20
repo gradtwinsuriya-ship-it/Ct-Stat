@@ -1,0 +1,6 @@
+{
+  "name": "HemaSTAT",
+  "description": "Acute intracranial hemorrhage CT triage workstation trained on 25,000+ radiologist-labeled head CT exams to detect and classify five brain bleed subtypes in emergency care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
